@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Krishiv Bohra\\Downloads\\stdlib.jar"
+    ],
+    "java.project.sourcePaths": [
+        ".vscode",
+        ""
+    ]
+}
