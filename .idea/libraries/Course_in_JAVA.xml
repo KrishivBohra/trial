@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Course in JAVA">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.vscode/std.java/src" />
+    </SOURCES>
+  </library>
+</component>
